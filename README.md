@@ -16,3 +16,4 @@ compile 'io.reactivex:rxjava:1.1.6'
 * Learning RxJava (for Android) by example [video and speaker deck of a presentation](https://newcircle.com/s/post/1744/2015/06/29/learning-rxjava-for-android-by-example)
 by Kaushik Gopal, and the associated [GitHub repository ](https://github.com/kaushikgopal/RxJava-Android-Samples).
 * [Getting Started With ReactiveX on Android](http://code.tutsplus.com/tutorials/getting-started-with-reactivex-on-android--cms-24387) by Ashraff Hathbelagal
+* Crunching RxAndroid [A step-by-step tutorial about Reactive Programming on Android](https://medium.com/crunching-rxandroid) in Medium
